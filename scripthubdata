@@ -1,0 +1,83 @@
+
+{
+  "SCRIPTS": [
+    {
+      "SCRIPT_NAME": "Infinite Yield",
+      "SCRIPT_URL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+      "SCRIPT_DESCRIPTION": "Script global que da ao usuario comandos Administrativos no roblox.",
+      "SCRIPT_IMAGE": "https://i.imgur.com/r2GS0wl.png"
+    },
+    {
+      "SCRIPT_NAME": "Dark Dex",
+      "SCRIPT_URL": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/Dex.lua",
+      "SCRIPT_DESCRIPTION": "Dark Dex é um script explorador de scripts, que pode ser usado para roubar mapas e descompilar scripts.",
+      "SCRIPT_IMAGE": "https://i.imgur.com/4MRHF98.png"
+    },
+    {
+      "SCRIPT_NAME": "Owl Hub",
+      "SCRIPT_URL": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/owlhub.lua",
+      "SCRIPT_DESCRIPTION": "Universal Esp e Aimbot (Funciona na maioria dos jogos.)",
+      "SCRIPT_IMAGE": "https://i.imgur.com/LFDHpiD.jpg"
+    },
+    {
+      "SCRIPT_NAME": "Nexusware",
+      "SCRIPT_URL": "https://pastebin.com/raw/R5RPvt9b",
+      "SCRIPT_DESCRIPTION": "---> Supported Games <---\r\n[ Kat ]  Atualizado / Funcionando\r\n[ Big Paintball ]  Beta\r\n[ Anomic ] \r\n[ Blox Fruits ]\r\n[ Parkour ]  Beta\r\n[ Arsenal ]  Beta\r\n[ Viking Simulator ] \r\n[ Ninja Legends ] ",
+      "SCRIPT_IMAGE": "https://cdn.discordapp.com/attachments/947618488669863996/951311676911783966/4b9d0741cc3d8d155c4a4398d58f1317.png"
+    },
+    {
+      "SCRIPT_NAME": "Mokuro Hub",
+      "SCRIPT_URL": "https://pastebin.com/raw/sVWx8dbQ",
+      "SCRIPT_DESCRIPTION": "Melhor script para autofarm [ Blox fruits ]",
+      "SCRIPT_IMAGE": "https://i.imgur.com/3RxYqn6.png"
+    },
+    {
+      "SCRIPT_NAME": "LeadMarker",
+      "SCRIPT_URL": "https://pastebin.com/raw/f6DxZLzN",
+      "SCRIPT_DESCRIPTION": "Melhor script de demon fall (Auto Farm, ESP, TP e ETC)",
+      "SCRIPT_IMAGE": "https://media.discordapp.net/attachments/947681829257887744/951711561213427723/unknown.png"
+    },
+    {
+      "SCRIPT_NAME": "Mad City",
+      "SCRIPT_URL": "https://pastebin.com/raw/UgByFax3",
+      "SCRIPT_DESCRIPTION": "Script Tabs com varias funções Alem de (FE, Aimbot e etc)",
+      "SCRIPT_IMAGE": "https://cdn.discordapp.com/attachments/947681829257887744/951874980667338792/unknown.png"
+    },
+    {
+      "SCRIPT_NAME": "Hexagon",
+      "SCRIPT_URL": "https://pastebin.com/raw/HTmsvmFt",
+      "SCRIPT_DESCRIPTION": "Script para fps com Universal aimbot e esp (Bom para counter blox)",
+      "SCRIPT_IMAGE": "https://media.discordapp.net/attachments/947681829257887744/951913920870907914/unknown.png?width=470&height=467"
+    },
+    {
+      "SCRIPT_NAME": "Herrtt UI",
+      "SCRIPT_URL": "https://pastebin.com/raw/ViSB77BP",
+      "SCRIPT_DESCRIPTION": "Phantom forces SCRIPT_URL (Aimbot,ESP e FE)",
+      "SCRIPT_IMAGE": "https://media.discordapp.net/attachments/947681829257887744/951982425511174164/unknown.png?width=960&height=24"
+    },
+    {
+      "SCRIPT_NAME": "Anime Punching",
+      "SCRIPT_URL": "https://pastebin.com/raw/rzE2sfvn",
+      "SCRIPT_DESCRIPTION": "Auto Farm, Auto Punching",
+      "SCRIPT_IMAGE": "https://tr.rbxcdn.com/efefb86b6ea1d7aa0b99d085888493f7/768/432/Image/Png"
+    },
+    {
+      "SCRIPT_NAME": "Ro-Ghoul",
+      "SCRIPT_URL": "https://pastebin.com/raw/8CW1WRYv",
+      "SCRIPT_DESCRIPTION": "Auto Farm, etc",
+      "SCRIPT_IMAGE": "https://tr.rbxcdn.com/bf0dd126eeaba84e96a5878ada90d405/768/432/Image/Png"
+    },
+    {
+      "SCRIPT_NAME": "Jailbreak",
+      "SCRIPT_URL": "https://pastebin.com/raw/piTB0r1T",
+      "SCRIPT_DESCRIPTION": "Auto Arrest, Auto Rob and AimBot, etc",
+      "SCRIPT_IMAGE": "https://tr.rbxcdn.com/9a3b34ce12b2ce29ea8a0964b4e15b36/512/512/Image/Jpeg"
+    },
+    {
+      "SCRIPT_NAME": "Anime Fighters",
+      "SCRIPT_URL": "https://pastebin.com/raw/2H6Lf5Sd",
+      "SCRIPT_DESCRIPTION": "Auto Farm, Auto Quest, Auto Click",
+      "SCRIPT_IMAGE": "https://tr.rbxcdn.com/b7f5e278914c42c450811661e59f7daf/150/150/Image/Jpeg"
+    }
+  ]
+}
