@@ -11,12 +11,6 @@
       "SCRIPT_URL": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/Dex.lua",
       "SCRIPT_DESCRIPTION": "Dark Dex é um script explorador de scripts, que pode ser usado para roubar mapas e descompilar scripts.",
       "SCRIPT_IMAGE": "https://i.imgur.com/4MRHF98.png"
-    },
-    {
-      "SCRIPT_NAME": "Owl Hub",
-      "SCRIPT_URL": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/owlhub.lua",
-      "SCRIPT_DESCRIPTION": "Universal Esp e Aimbot (Funciona na maioria dos jogos.)",
-      "SCRIPT_IMAGE": "https://i.imgur.com/LFDHpiD.jpg"
     }
   ]
 }
