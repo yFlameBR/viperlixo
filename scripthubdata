@@ -1,59 +1,22 @@
-
 {
-    "SCRIPTS": [
-         {
-              "SCRIPT_NAME": "Infinite Yield",
-              "SCRIPT_URL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
-              "SCRIPT_DESCRIPTION": "Script global que da ao usuario comandos Administrativos no roblox.",
-              "SCRIPT_IMAGE": "https://i.imgur.com/r2GSwc1.png"
-         },
-         {
-              "SCRIPT_NAME": "Dark Dex",
-              "SCRIPT_URL": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/Dex.lua",
-              "SCRIPT_DESCRIPTION": "Dark Dex é um script explorador de scripts, que pode ser usado para roubar mapas e descompilar scripts.",
-              "SCRIPT_IMAGE": "https://i.imgur.com/4MRH9F8.png"
-         },
-         {
-              "SCRIPT_NAME": "Owl Hub",
-              "SCRIPT_URL": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/owlhub.lua",
-              "SCRIPT_DESCRIPTION": "Universal Esp e Aimbot (Funciona na maioria dos jogos).",
-              "SCRIPT_IMAGE": "https://i.imgur.com/LFDPH0j.jpg"
-         },
-         {
-              "SCRIPT_NAME": "Arsenal Script (LEG Hub)",
-              "SCRIPT_URL": "https://raw.githubusercontent.com/cris123452/my/main/cas",
-              "SCRIPT_DESCRIPTION": "Um script para arsenal, feito para poder funcionar em executores de baixo poder, mas bom ao mesmo tempo.",
-              "SCRIPT_IMAGE": "https://i.imgur.com/example4.png"
-         },
-         {
-              "SCRIPT_NAME": "BladeBall",
-              "SCRIPT_URL": "https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/autoparry.lua",
-              "SCRIPT_DESCRIPTION": "Um script para bladeball, muito bem feito & intelegente.",
-              "SCRIPT_IMAGE": "https://i.imgur.com/example5.png"
-         },
-         {
-              "SCRIPT_NAME": "Unnamed Esp",
-              "SCRIPT_URL": "https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua",
-              "SCRIPT_DESCRIPTION": "Unnamed Esp, um script de esp para todos os tipos de jogos, desde arsenal até a rivals (e etc).",
-              "SCRIPT_IMAGE": "https://i.imgur.com/example6.png"
-         },
-         {
-              "SCRIPT_NAME": "Mukuro Hub",
-              "SCRIPT_URL": "https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua",
-              "SCRIPT_DESCRIPTION": "Um script para bloxfruits, facil de usar & bom.",
-              "SCRIPT_IMAGE": "https://i.imgur.com/example6.png"
-         },
-         {
-              "SCRIPT_NAME": "Vape",
-              "SCRIPT_URL": "https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua",
-              "SCRIPT_DESCRIPTION": "Um script para bedwars, o melhor por ai.",
-              "SCRIPT_IMAGE": "https://i.imgur.com/example8.png"
-         },
-         {
-              "SCRIPT_NAME": "PadoHub",
-              "SCRIPT_URL": "https://raw.githubusercontent.com/REWzaKunGz1/premium/main/PadoHub",
-              "SCRIPT_DESCRIPTION": "Um outro script para bloxfruits, mais leve, e mais suportavel para Viper X.",
-              "SCRIPT_IMAGE": "https://i.imgur.com/example9.png"
-         }
-    ]
+  "SCRIPTS": [
+    {
+      "SCRIPT_NAME": "Infinite Yield",
+      "SCRIPT_URL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+      "SCRIPT_DESCRIPTION": "Script global que da ao usuario comandos Administrativos no roblox.",
+      "SCRIPT_IMAGE": "https://i.imgur.com/r2GS0wl.png"
+    },
+    {
+      "SCRIPT_NAME": "Dark Dex",
+      "SCRIPT_URL": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/Dex.lua",
+      "SCRIPT_DESCRIPTION": "Dark Dex é um script explorador de scripts, que pode ser usado para roubar mapas e descompilar scripts.",
+      "SCRIPT_IMAGE": "https://i.imgur.com/4MRHF98.png"
+    },
+    {
+      "SCRIPT_NAME": "Owl Hub",
+      "SCRIPT_URL": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/owlhub.lua",
+      "SCRIPT_DESCRIPTION": "Universal Esp e Aimbot (Funciona na maioria dos jogos.)",
+      "SCRIPT_IMAGE": "https://i.imgur.com/LFDHpiD.jpg"
+    }
+  ]
 }
