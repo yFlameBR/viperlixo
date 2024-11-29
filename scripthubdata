@@ -7,8 +7,8 @@
       "SCRIPT_IMAGE": "https://i.imgur.com/r2GS0wl.png"
     },
     {
-      "SCRIPT_NAME": "Infinite Yield",
-      "SCRIPT_URL": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+      "SCRIPT_NAME": "Entupidão do quiabo",
+      "SCRIPT_URL": "loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/BladeBall.lua"))()",
       "SCRIPT_DESCRIPTION": "Script global que da ao usuario comandos Administrativos no roblox.",
       "SCRIPT_IMAGE": "https://i.imgur.com/r2GS0wl.png"
     }
